@@ -1,18 +1,18 @@
 # Automação de Tarefas em Python
 # ♻️ Installation
 ```bash
-  $ git clone git@github.com:Japolina/Python_Automacao.git
+  git clone https://github.com/Japolina/Python_Automacao.git
 ```
 ## Available Scripts
 
 In the project directory, you can run:
 - **Install npm packages**
 ```bash
-  $ pip install pyautogui
+  pip install pyautogui
 ```
 - and
 ```bash
-  $ pip install pandas openpyxl numpy
+  pip install pandas openpyxl numpy
 ```
 
 ## 🔨 Tools
