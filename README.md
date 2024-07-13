@@ -6,7 +6,7 @@
 ## Available Scripts
 
 In the project directory, you can run:
-- **Install npm packages**
+- **Install packages**
 ```bash
   pip install pyautogui
 ```
